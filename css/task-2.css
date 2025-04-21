@@ -1,12 +1,20 @@
-img {
-  display: block;
-  width: 480px;
+body {
+    padding: 100px 156px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
 }
 
 .gallery {
-  list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
 
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+img {
+    width: 360px;
+    height: 300px;
 }

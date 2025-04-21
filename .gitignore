@@ -128,7 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-abstract.js
-classList.js
-chat-gpt-tasks.js
