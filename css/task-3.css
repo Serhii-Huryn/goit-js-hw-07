@@ -1,0 +1,9 @@
+input {
+    padding: 8px 72px;
+    border-radius: 4px;
+    border: #808080 solid 1px;
+}
+
+input:hover input:focus {
+    border: #000 solid 1px;
+}
